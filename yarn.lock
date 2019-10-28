@@ -9880,9 +9880,9 @@ reactcss@^1.2.0:
   dependencies:
     lodash "^4.0.1"
 
-"reactcss@https://github.com/codeheroesdev/reactcss.git#54e9b7f":
+"reactcss@https://github.com/codeheroesdev/reactcss.git#80ff4ea":
   version "1.2.2"
-  resolved "https://github.com/codeheroesdev/reactcss.git#54e9b7f70bef9a11aea723f2048b6c8c7642c975"
+  resolved "https://github.com/codeheroesdev/reactcss.git#80ff4eafe9331ea46dfd69048490872e87d8ad6e"
   dependencies:
     lodash "^4.17.15"
     lodash.clonedeep "^4.5.0"
